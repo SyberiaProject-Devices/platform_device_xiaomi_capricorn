@@ -87,6 +87,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.data.dpm.enable=true \
     persist.vendor.dpm.feature=11 \
+    persist.vendor.dpm.tcm=2 \
     persist.env.fastdorm.enabled=true
 
 # DRM
