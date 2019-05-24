@@ -74,7 +74,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.data.mode=concurrent \
     persist.data.netmgrd.qos.enable=true \
     ro.use_data_netmgrd=true \ 
-    ro.vendor.use_data_netmgrd=true \
+    ro.vendor.use_data_netmgrd=true 
 
 # Display (Qualcomm AD)
 PRODUCT_PROPERTY_OVERRIDES += \
