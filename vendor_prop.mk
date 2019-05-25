@@ -73,7 +73,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.data.mode=concurrent \
     persist.vendor.data.mode=concurrent \
     persist.data.netmgrd.qos.enable=true \
-    ro.use_data_netmgrd=true \ 
+    ro.use_data_netmgrd=true \
     ro.vendor.use_data_netmgrd=true 
 
 # Display (Qualcomm AD)
@@ -203,7 +203,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.radio.calls.on.ims=1 \
     persist.radio.add_power_save=1 \
     persist.radio.aosp_usr_pref_sel=true \
-    persist.vendor.radio.data_ltd_sys_ind=1 \    
+    persist.vendor.radio.data_ltd_sys_ind=1 \
     persist.vendor.radio.apm_sim_not_pwdn=1 \
     persist.vendor.radio.add_power_save=true \
     persist.vendor.radio.custom_ecc=1 \
